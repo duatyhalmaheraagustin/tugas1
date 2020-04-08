@@ -1,0 +1,28 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Pencegahan Covid-19</title>
+    <style type="text/css">
+        .body{
+            background-color: pink;
+
+        }
+        .header{
+            text-align: center;
+            font-size: large;
+            font-family: impact;
+
+        }
+        .kotak{
+            background-color: yellow;
+            box-shadow: 10px 10px 10px;
+            border-radius: 20px;
+            padding: 100px;
+            font-size: medium;
+            font-family: Franklin Gothic Medium;
+            width: auto;
+            height: 300px;
+            margin-top: 30px;
+
+        }
